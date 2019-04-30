@@ -1,6 +1,8 @@
 # JEE Main Marks Calculator (Python)
 A program made in python to calculate marks obtained in NTA JEE Main (April 2019)
 
+The NTA Website does not show the marks obtained in the exam. Only the percentiles and candidate responses are provided, from which interested candidates have to calculate their marks by referring to the answer key. With this program, you can avoid manually calculating the marks. :P
+
 Download built ZIP package containing EXE and answer key from [releases](/../../releases)
 
 # Usage
