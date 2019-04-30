@@ -14,6 +14,9 @@ Run the EXE and input the URL of your JEE Main Responses (Can be found by loggin
 ## Install dependencies
 `pip install bs4 requests pyinstaller`
 
+## Run without compiling
+`python main.py`
+
 ## Build command
 `pyinstaller --onefile --icon=nta_logo.ico main.py`
 
