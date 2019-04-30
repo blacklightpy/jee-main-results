@@ -7,7 +7,7 @@ Download built ZIP package containing EXE and answer key from [releases](/../../
 
 # Usage
 
-Run the EXE and input the URL of your JEE Main Responses (Can be found by logging in at the [JEE Main Website](jeemain.nic.in))
+Run the EXE and input the URL of your JEE Main Responses (Can be found by logging in at the [JEE Main Website](https://jeemain.nic.in/JeeMainApp/Online/CandidateHome.aspx)
 
 # Building from Source
 
