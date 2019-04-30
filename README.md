@@ -1,7 +1,7 @@
 # JEE Main Marks Calculator (Python)
 A program made in python to calculate marks obtained in NTA JEE Main (April 2019)
 
-Download built package from [releases](/../releases)
+Download built package from [releases](/../../releases)
 
 # Building from Source
 
